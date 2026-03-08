@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student Studying in The Oxford College Of Engineering
+A proficient developer
 
 
 ## 🌐 Socials:
